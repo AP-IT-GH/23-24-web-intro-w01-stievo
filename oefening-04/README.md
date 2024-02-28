@@ -13,3 +13,6 @@
 - [ ] Lees de tekst aandachtig, want er staat nog een opdracht in verborgen.
 
 ![Alt text](image.png)
+
+
+<strong>This text is important!</strong>
